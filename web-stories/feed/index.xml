@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Stories Archive - Manomay Jyotish</title>
-	<atom:link href="https://geranium-coin.github.io/manomayjyotish/web-stories/feed/" rel="self" type="application/rss+xml" />
-	<link>https://geranium-coin.github.io/manomayjyotish</link>
+	<atom:link href="https://manomayjyotish.com/web-stories/feed/" rel="self" type="application/rss+xml" />
+	<link>https://manomayjyotish.com</link>
 	<description>Manomay Jyotish</description>
 	<lastBuildDate>Fri, 11 Feb 2022 08:46:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 
 <image>
-	<url>https://geranium-coin.github.io/manomayjyotish/wp-content/uploads/2022/02/icon.jpg</url>
+	<url>https://manomayjyotish.com/wp-content/uploads/2022/02/icon.jpg</url>
 	<title>Stories Archive - Manomay Jyotish</title>
-	<link>https://geranium-coin.github.io/manomayjyotish</link>
+	<link>https://manomayjyotish.com</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title></title>
-		<link>https://geranium-coin.github.io/manomayjyotish/web-stories/479/</link>
+		<link>https://manomayjyotish.com/web-stories/479/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 11 Feb 2022 08:44:47 +0000</pubDate>
-				<guid isPermaLink="false">https://geranium-coin.github.io/manomayjyotish/?post_type=web-story&#038;p=479</guid>
+				<guid isPermaLink="false">https://manomayjyotish.com/?post_type=web-story&#038;p=479</guid>
 
 					<description><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
-			<a href="https://geranium-coin.github.io/manomayjyotish/web-stories/479/">
+			<a href="https://manomayjyotish.com/web-stories/479/">
 							</a>
 		</div>
 		]]></description>
 										<content:encoded><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
-			<a href="https://geranium-coin.github.io/manomayjyotish/web-stories/479/">
+			<a href="https://manomayjyotish.com/web-stories/479/">
 							</a>
 		</div>
 		]]></content:encoded>
